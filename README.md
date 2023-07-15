@@ -21,7 +21,7 @@ Some of the technologies and tools I'm comfortable with include:
 - Deployment: AWS, Firebase
 - DevOps: Docker, Kubernetes
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,react,aws,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,aws,git,docker,node,mongodb)](https://skillicons.dev)
 
 - 🌱 I’m currently learning Django / Kubernetes 
 - 📫 How to reach me: sonam43jha@gmail.com 
