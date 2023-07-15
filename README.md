@@ -1,4 +1,4 @@
-![Software Design & Development](https://media.licdn.com/dms/image/D4D16AQHqPqKBLxVvlg/profile-displaybackgroundimage-shrink_350_1400/0/1688813398950?e=1694649600&v=beta&t=hrBe3YAynshHqpflBb8zOoqMi1EIksoNjT4HogfxZOw)
+![Software Design & Development](https://raw.githubusercontent.com/tarrex/tarrex/master/images/matrix.svg)
 
 ### Hi there 👋, I'm Sonam
 
@@ -23,14 +23,21 @@ Some of the technologies and tools I'm comfortable with include:
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,aws,git,docker,nodejs,mongodb)
 
-- 🌱 I’m currently learning Django / Kubernetes 
-
 ## Check my links
 
 - Portfolio: https://folio1-0.web.app/
-  
 
 [![](https://skillicons.dev/icons?i=github)](https://github.com/sonam0296)  [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/sonam-jha-789b481a9//)  [![](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/15742387) 
+
+## 🌱 Learning & Growth
+
+As technology constantly evolves, I believe in the importance of continuous learning. Whether it's reading tech blogs, participating in hackathons, or exploring emerging trends, I strive to stay at the forefront of the industry. I'm always eager to take on new challenges and learn from the experiences they bring.
+
+## 📫 Let's Connect!
+
+I'm always excited to connect with fellow developers, open-source enthusiasts, or anyone passionate about technology. Feel free to reach out to me via email at [sonam43jha@gmail.com] or find me on LinkedIn [https://www.linkedin.com/in/sonam-jha-789b481a9/]. Let's discuss exciting projects, and collaboration opportunities, or just have a friendly chat!
+
+Thanks for visiting my GitHub profile, and happy coding! 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonam0296)](https://github.com/anuraghazra/github-readme-stats)
 
