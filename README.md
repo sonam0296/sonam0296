@@ -21,13 +21,16 @@ Some of the technologies and tools I'm comfortable with include:
 - Deployment: AWS, Firebase
 - DevOps: Docker, Kubernetes
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,aws,git,docker,node,mongodb)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,aws,git,docker,nodejs,mongodb)
 
 - 🌱 I’m currently learning Django / Kubernetes 
-- 📫 How to reach me: sonam43jha@gmail.com 
 
+## Check my links
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sonam0296)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sonam-jha-789b481a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15742387)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://folio1-0.web.app/)  
+- Portfolio: https://folio1-0.web.app/
+  
+
+[![](https://skillicons.dev/icons?i=github)](https://github.com/sonam0296)  [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/sonam-jha-789b481a9//)  [![](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/15742387) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonam0296)](https://github.com/anuraghazra/github-readme-stats)
 
