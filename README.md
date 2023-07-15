@@ -27,7 +27,7 @@ Some of the technologies and tools I'm comfortable with include:
 
 - Portfolio: https://folio1-0.web.app/
 
-[![](https://skillicons.dev/icons?i=github)](https://github.com/sonam0296)  [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/sonam-jha-789b481a9//)  [![](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/15742387) 
+[![](https://skillicons.dev/icons?i=github)](https://github.com/sonam0296)  [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/sonam-jha-789b481a9//)  [![](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/15742387)
 
 ## 🌱 Learning & Growth
 
